@@ -1,0 +1,24 @@
+body{
+    background-color: #000;
+
+}
+
+ol{
+    color: #1E90FF; 
+    font-size: 45px;
+    position: relative;
+    columns: 2;
+    bottom: 25px;
+    left: 3px;
+    text-align: start;
+}
+
+li a{
+    color: #1E90FF;
+}
+
+h2 a{
+    color: #1E90FF;
+    position: relative;
+    top: 500px;
+}
