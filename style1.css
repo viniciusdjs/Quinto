@@ -8,20 +8,7 @@
 
 body{
     background-color: #000;
-}    /* body{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    min-height: 100vh;
-    background-color: #252839;
-}
- */
-/* div{
-    position: relative;
-    bottom: 10px;
-    left: 30px;  
-}*/
-
+}  
 
 h1{ 
     color: #355dd4;
@@ -53,7 +40,6 @@ ul{
     display: flex;
     flex-direction: column;
     gap: 20px;
-    /* align-items: center; */
     padding-top: 10px;
     padding-right: 100px;
     
