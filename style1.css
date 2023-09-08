@@ -1,6 +1,5 @@
 @media screen and (max-width: 768px) {
     /* Estilos para telas menores (exemplo: smartphones) */
-  } 
 
 *{
     margin: 0;
@@ -98,5 +97,7 @@ ul li a::before{
 ul li a:hover::before{
     width: 100%;
     filter: drop-shadow(0 0 25px var(--clr));
+
+}
 
 }
