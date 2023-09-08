@@ -1,78 +1,90 @@
-@media screen and (max-width: 768px) {
-    /* Estilos para telas menores (exemplo: smartphones) */
-
-*{
+/* *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
     
-}
+} */
 
 
 body{
     background-color: #000;
+    text-align: justify;
 }  
 
-h1{ 
-    color: #355dd4;
-    
-}
-
-#inicio{
-    position: relative;  
-    bottom:  345px;
-    left: 80px;
-    font-size: 50px;
-}
-
-#carta{
+.logo{
     position: relative;
-    top: 359px;
-    left: 129px;   
+    left: 168px;
+    top: 80px;
 }
+
+/* h1{ 
+color: #355dd4;
+position: relative;
+
+} */
 
 h2{
     color: #355dd4;  
 }
 
 h2 a{
-    color: #355dd4  ;
+    color: #355dd4;
 }
-ul{ 
+
+#inicio{
+    font-size: 40px;
     position: relative;
-    display: flex;
-    flex-direction: column;
-    gap: 20px;
-    padding-top: 10px;
-    padding-right: 100px;
+    bottom: 200px;
+    left: 50px;
+    text-align: left;
     
 }
 
-ul li{
+#carta{
     position: relative;
-    list-style: none;
+    top: 275px;
+    right: 94px;
+    font-size: 20px;   
+    text-align: left;
+}
+
+ul{ 
+    position: relative;
+    text-align: justify;
+    bottom: 80px;
+    right: 125px;
+    color: #1E90FF;
+    font-size: 20px;
+    
+}
+
+ul li a{
+    color: #1E90FF;
+}
+/* ul li{
+    position: relative;
 }
 
 #pb{
     position: relative;
-    left: 30px;
-    top: 10px;
+    left: px;
+    top: 30px;
 }
 
 #p{
     position: relative;
-    left: 30px;
-    top: 10px;
+    left: px;
+    top: px;
 }
 
 #l{
     position: relative;
-    left: 30px;
-    top: 10px;
-}
+    left: px;
+    top: px;
+} */
 
-ul li a{
+/* ul li a{
     position: relative;
     font-size: 2em;
     text-decoration: none;
@@ -98,6 +110,4 @@ ul li a:hover::before{
     width: 100%;
     filter: drop-shadow(0 0 25px var(--clr));
 
-}
-
-}
+} */
