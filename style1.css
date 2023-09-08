@@ -1,3 +1,7 @@
+@media screen and (max-width: 768px) {
+    /* Estilos para telas menores (exemplo: smartphones) */
+  } 
+
 *{
     margin: 0;
     padding: 0;
@@ -5,6 +9,7 @@
     font-family: 'Poppins', sans-serif;
     
 }
+
 
 body{
     background-color: #000;
