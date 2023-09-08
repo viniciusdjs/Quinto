@@ -14,8 +14,8 @@ body{
 
 .logo{
     position: relative;
-    left: 168px;
-    top: 80px;
+    left: 55%;
+    top: 15%;
 }
 
 /* h1{ 
@@ -33,29 +33,29 @@ h2 a{
 }
 
 #inicio{
-    font-size: 40px;
+    font-size: 5.5em;
     position: relative;
-    bottom: 200px;
-    left: 50px;
+    bottom: 40%;
+    left: 15%;
     text-align: left;
     
 }
 
 #carta{
     position: relative;
-    top: 275px;
-    right: 94px;
-    font-size: 20px;   
+    top: 45%;
+    right: 40.5%;
+    font-size: 3.5em;   
     text-align: left;
 }
 
 ul{ 
     position: relative;
     text-align: justify;
-    bottom: 80px;
-    right: 125px;
+    bottom: 10%;
+    right: 35%;
     color: #1E90FF;
-    font-size: 20px;
+    font-size: 4.5em;
     
 }
 
